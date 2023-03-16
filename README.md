@@ -4,7 +4,7 @@
 
 - Created an efficient database for food delivery system that can insert and retrieve data from the database in efficient way.
 
-- The Entity Relationship Diagram prepared for making this database Applied Normalisation to reduce the redundancy of the data.
+- The following is the **Entity Relationship Diagram** prepared for making this database Applied Normalisation to reduce the redundancy of the data.
 
 ![ER](/Screenshots/ER_Diagram.jpg)
 
