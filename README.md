@@ -9,3 +9,9 @@
 ![ER](/Screenshots/ER_Diagram.jpg)
 
 - You can perform queries and retrieve data from the database using SQL
+
+- Used MS SQL Server and Microsoft SQL Server Management Studio for creating the database
+
+- Examples of some queries and retrieved data from database
+
+![Query_!](/Screenshots/Query_Example_1.png)
