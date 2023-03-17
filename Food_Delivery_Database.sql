@@ -1,3 +1,9 @@
+--Creating Database
+create database Food_Delivery_System;
+go
+
+use Food_Delivery_System;
+go
 --Creating Customer Table
 
 create table Customer (
