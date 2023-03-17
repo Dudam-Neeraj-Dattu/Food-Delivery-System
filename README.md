@@ -12,7 +12,7 @@
 
 - Used **MS SQL Server** and **Microsoft SQL Server Management Studio** for creating the database.
 
-- Examples of some queries and retrieved data from database.
+- Following are some Examples some queries and retrieved data from database.
 
 The following query retrievs data from database by doing ```INNER JOIN ``` and displays **Hotel_Name**, **Item_Price**, **Item_Name** joining three tables **Hotel**, **Hotel_Items**, **Items**.
 
