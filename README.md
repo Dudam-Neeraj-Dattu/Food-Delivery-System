@@ -4,9 +4,13 @@
 
 - Created an efficient database for food delivery system that can insert and retrieve data from the database in efficient way.
 
-- The following is the **Entity Relationship Diagram** prepared for making this database and applied **Normalisation** to reduce the redundancy of the data.
+- The following image is the **Entity Relationship Diagram** prepared for making this database. 
 
-![ER](/Screenshots/ER_Diagram.jpg)
+![ER](/Screenshots/ER_Diagram.png)
+
+- The following image is the **Relational Model** converted from ER Diagram using SQL.
+
+![Relational](/Screenshots/Relational_Model.jpg)
 
 - You can perform queries and retrieve data from the database using SQL.
 
