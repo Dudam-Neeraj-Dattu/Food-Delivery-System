@@ -16,6 +16,8 @@
 
 - Used **MS SQL Server** and **Microsoft SQL Server Management Studio** for creating the database.
 
+- Read the ![Documentation](/Documentation/Food%20Delivery%20System%20Database%20Design.pdf) for the Database Design for detailed explaination.
+
 - Following are some Examples of queries and retrieved data from database.
 
 The following query retrievs data from database by doing ```INNER JOIN ``` and displays **Hotel_Name**, **Item_Price**, **Item_Name** joining three tables **Hotel**, **Hotel_Items**, **Items**.
