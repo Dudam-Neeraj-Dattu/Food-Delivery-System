@@ -20,7 +20,7 @@
 
 - Following are some Examples of queries and retrieved data from database.
 
-<a href = "https://raw.githubusercontent.com/Dudam-Neeraj-Dattu/Food-Delivery-System/master/Screenshots/Query_Example_1.png" text-decoration = none text-weight = bold>Query 1</a>
+<a href = "https://raw.githubusercontent.com/Dudam-Neeraj-Dattu/Food-Delivery-System/master/Screenshots/Query_Example_1.png" text-decoration = none font-weight = bold>Query 1</a>
 
 The following query retrievs data from database by doing ```INNER JOIN ``` and displays **Hotel_Name**, **Item_Price**, **Item_Name** joining three tables **Hotel**, **Hotel_Items**, **Items**.
 
@@ -28,7 +28,7 @@ The following query retrievs data from database by doing ```INNER JOIN ``` and d
 
 ![Query_1](/Screenshots/Query_Example_1.png)
 
-<a href = "https://raw.githubusercontent.com/Dudam-Neeraj-Dattu/Food-Delivery-System/master/Screenshots/Query_Example_2.png" text-decoration = none text-weight = bold>Query 2</a>
+<a href = "https://raw.githubusercontent.com/Dudam-Neeraj-Dattu/Food-Delivery-System/master/Screenshots/Query_Example_2.png" text-decoration = none font-weight = bold>Query 2</a>
 
 The following query retrievs data from database by doing ```INNER JOIN ``` and done a multiply operation to display amount and displays **Date_of_Order**, **Customer_Name**, **Item_Name**, **Quantity**, **Amount** joining four tables **Order_Items**, **Customer**, **Items**, **Hotel_Items**.
 
